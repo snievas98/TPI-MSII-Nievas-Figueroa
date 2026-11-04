@@ -1,0 +1,7 @@
+--- TAGS ---
+estado-inicial
+estadorefactorizado
+etapa-diagnostico
+etapa-docs
+etapa-pruebas
+etapa-refactoring

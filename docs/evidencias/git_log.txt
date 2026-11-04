@@ -1,0 +1,5 @@
+* 54c0287 (HEAD -> main, tag: etapa-docs, tag: estadorefactorizado) docs: completar code review trazabilidad y guia de defensa
+* 1d9f0fa (tag: etapa-pruebas) test: verificar comportamiento y equivalencia antes despues
+* dfe914d (tag: etapa-refactoring) refactor: separar dominio servicios y persistencia
+* 2f3f6b3 (tag: etapa-diagnostico) docs: registrar diagnostico de calidad interna y code smells
+* 8202715 (tag: estado-inicial) feat: incorporar version inicial funcional del sistema de solicitudes
