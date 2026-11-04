@@ -1,0 +1,1 @@
+"""Módulo del sistema refactorizado."""
