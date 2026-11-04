@@ -1,0 +1,2 @@
+Solicitud registrada: CER-0001
+Reporte: {'total': 1, 'por_estado': {'PENDIENTE': 0, 'EN_PROCESO': 1, 'RESUELTA': 0, 'RECHAZADA': 0}, 'por_prioridad': {'ALTA': 1, 'MEDIA': 0, 'BAJA': 0}}

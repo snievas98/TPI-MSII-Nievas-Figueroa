@@ -1,0 +1,11 @@
+digraph G {
+  rankdir=LR;
+  graph [bgcolor="white", pad="0.3", nodesep="0.45", ranksep="0.7"];
+  node [shape=box, style="rounded", fontname="DejaVu Sans", fontsize=11];
+  edge [fontname="DejaVu Sans", fontsize=9];
+  usuario [label="Usuario / CLI"];
+  sistema [label="SistemaSolicitudes\n- validación\n- reglas\n- búsqueda\n- reporte\n- persistencia JSON"];
+  json [label="solicitudes.json", shape=cylinder];
+  usuario -> sistema [label="opera"];
+  sistema -> json [label="lee / escribe"];
+}

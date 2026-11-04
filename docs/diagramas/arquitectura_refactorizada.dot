@@ -1,0 +1,22 @@
+digraph G {
+  rankdir=LR;
+  graph [bgcolor="white", pad="0.3", nodesep="0.4", ranksep="0.7"];
+  node [shape=box, style="rounded", fontname="DejaVu Sans", fontsize=10];
+  edge [fontname="DejaVu Sans", fontsize=9];
+  cli [label="Presentación\nCLI"];
+  service [label="Aplicación\nSolicitudService"];
+  report [label="Aplicación\nReporteService"];
+  domain [label="Dominio\nSolicitud / Estudiante / Responsable\nEnums + excepciones"];
+  repo [label="Contrato\nSolicitudRepository\nReader / Writer"];
+  jsonrepo [label="Infraestructura\nJsonSolicitudRepository"];
+  memrepo [label="Pruebas\nInMemorySolicitudRepository"];
+  json [label="solicitudes.json", shape=cylinder];
+  cli -> service;
+  cli -> report;
+  service -> domain [label="usa"];
+  service -> repo [label="depende de abstracción"];
+  report -> repo [label="solo lectura"];
+  jsonrepo -> repo [arrowhead=empty, label="implementa"];
+  memrepo -> repo [arrowhead=empty, label="implementa"];
+  jsonrepo -> json [label="persiste"];
+}

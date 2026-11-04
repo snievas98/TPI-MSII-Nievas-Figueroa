@@ -1,0 +1,11 @@
+test_mismo_resultado_externo_en_flujo_nominal (test_equivalencia.TestEquivalenciaAntesDespues.test_mismo_resultado_externo_en_flujo_nominal) ... ok
+test_flujo_principal (test_version_inicial.TestVersionInicial.test_flujo_principal) ... ok
+test_persistencia (test_version_inicial.TestVersionInicial.test_persistencia) ... ok
+test_error_explicito_si_no_existe (test_version_refactorizada.TestVersionRefactorizada.test_error_explicito_si_no_existe) ... ok
+test_flujo_principal (test_version_refactorizada.TestVersionRefactorizada.test_flujo_principal) ... ok
+test_validacion_de_email (test_version_refactorizada.TestVersionRefactorizada.test_validacion_de_email) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.004s
+
+OK
