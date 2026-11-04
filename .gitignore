@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.DS_Store
+version_inicial/data/*.json
+version_refactorizada/data/*.json
