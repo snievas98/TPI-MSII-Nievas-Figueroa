@@ -8,4 +8,9 @@ Para la defensa grupal se propone una participación equilibrada:
 - Ignacio: explicación de SOLID/Clean Code, refactorings, pruebas y code review.
 - Ambos: demostración antes/después, conclusiones y respuesta a preguntas.
 
-> Antes de publicar en GitHub, ambos integrantes deben revisar el trabajo completo y dejar participación real verificable en el repositorio (por ejemplo, revisión/commit/documentación) de modo que la trazabilidad coincida con la participación efectiva del equipo.
+## Participación verificable
+
+- **Santiago Nievas:** revisión final previa a publicación, verificación de pruebas y tags, y actualización de la documentación de entrega.
+- **Ignacio Figueroa:** realizará la revisión final y dejará su propia contribución verificable desde su cuenta antes de la entrega definitiva.
+
+La trazabilidad final del repositorio debe mostrar una contribución real de cada integrante.

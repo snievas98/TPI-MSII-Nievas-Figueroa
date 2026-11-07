@@ -54,4 +54,8 @@ El repositorio local entregado incluye los tags requeridos por la consigna:
 - `etapa-docs`
 - `estadorefactorizado`
 
-> Antes de la entrega final, el equipo debe publicar este repositorio en GitHub y reemplazar en el informe el marcador del enlace por la URL real.
+## Repositorio de entrega
+
+URL prevista de publicación: `https://github.com/snievas98/TPI-MSII-Nievas-Figueroa`
+
+La versión local conserva el historial y los tags requeridos por la consigna. Antes de la entrega definitiva, Ignacio Figueroa incorporará su revisión final desde su propia cuenta para completar la participación verificable del equipo.
