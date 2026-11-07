@@ -32,7 +32,7 @@
 - [x] Tag `etapa-pruebas`.
 - [x] Tag `etapa-docs`.
 - [x] Carpeta `docs/` con checklist, evidencias y decisiones.
-- [ ] Publicar el repositorio local en GitHub y copiar la URL real al informe.
+- [x] Publicar el repositorio local en GitHub y copiar la URL real al informe.
 - [ ] Dejar participación real verificable de ambos integrantes en GitHub.
 
 ## Entrega y defensa
@@ -40,7 +40,7 @@
 - [x] Informe PDF único preparado.
 - [x] Anexo de evidencias preparado.
 - [x] Guion de video grupal de 10-15 minutos preparado.
-- [ ] Completar la comisión en la portada.
-- [ ] Grabar el video con Santiago e Ignacio, cámara encendida y voz propia.
-- [ ] Publicar/cargar el video y copiar el enlace real al informe.
-- [ ] Reexportar el PDF una vez reemplazados los tres marcadores externos.
+- [x] Completar la comisión en la portada.
+- [x] Grabar el video con Santiago e Ignacio, cámara encendida y voz propia.
+- [x] Publicar/cargar el video y copiar el enlace real al informe.
+- [x] Reexportar el PDF una vez reemplazados los tres marcadores externos.
