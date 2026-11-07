@@ -33,7 +33,7 @@
 - [x] Tag `etapa-docs`.
 - [x] Carpeta `docs/` con checklist, evidencias y decisiones.
 - [x] Publicar el repositorio local en GitHub y copiar la URL real al informe.
-- [ ] Dejar participación real verificable de ambos integrantes en GitHub.
+- [x] Dejar participación real verificable de ambos integrantes en GitHub.
 
 ## Entrega y defensa
 
