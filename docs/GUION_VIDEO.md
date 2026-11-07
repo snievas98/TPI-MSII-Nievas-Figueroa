@@ -1,4 +1,18 @@
-# Guion para video de defensa (10-15 minutos)
+# Guion para video de defensa
+
+La defensa fue grabada en dos bloques consecutivos, con participación de ambos integrantes y una duración total dentro del rango solicitado por la cátedra.
+
+## Parte 1 — Santiago Nievas
+
+Santiago presenta el sistema base, diferencia entre calidad externa e interna, deuda técnica, principales code smells y contexto del refactoring.
+
+## Parte 2 — Ignacio Figueroa
+
+Ignacio desarrolla la aplicación de SOLID y Clean Code, refactorings realizados, pruebas y verificación, code review, trazabilidad Git y conclusiones.
+
+## Detalle de contenidos abordados
+
+El siguiente detalle técnico se conserva como referencia de los contenidos tratados en la defensa.
 
 ## 0:00-0:40 - Presentación
 

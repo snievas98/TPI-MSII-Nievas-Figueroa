@@ -11,6 +11,6 @@ Para la defensa grupal se propone una participación equilibrada:
 ## Participación verificable
 
 - **Santiago Nievas:** revisión final previa a publicación, verificación de pruebas y tags, y actualización de la documentación de entrega.
-- **Ignacio Figueroa:** realizará la revisión final y dejará su propia contribución verificable desde su cuenta antes de la entrega definitiva.
+- **Ignacio Figueroa:** revisión final del repositorio, verificación de pruebas y documentación, y actualización del registro de participación del equipo.
 
-La trazabilidad final del repositorio debe mostrar una contribución real de cada integrante.
+La trazabilidad final del repositorio muestra una contribución verificable de cada integrante.
